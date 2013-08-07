@@ -1,4 +1,8 @@
-## 1.0 (07 August 2013)
+## 1.0.1 (07 August 2013)
+
+* Fixed a bug relating to li styles being overridden.
+
+## 1.0.0 (07 August 2013)
 
 * Official Release
 
