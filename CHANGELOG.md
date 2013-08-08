@@ -1,3 +1,7 @@
+## 1.0.2 (07 August 2013)
+
+* Fixed another bug relating to ul & li styles being overridden.
+
 ## 1.0.1 (07 August 2013)
 
 * Fixed a bug relating to li styles being overridden.

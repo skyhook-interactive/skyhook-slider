@@ -13,7 +13,7 @@
  * Plugin Name: Skyhook Slider
  * Plugin URI:  http://skyhookinternetmarketing.com/
  * Description: Basic slider plugin based on FlexSlider jQuery plugin from WooThemes.
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      Cory Crowley, Skyhook Internet Marketing
  * Author URI:  http://skyhookinternetmarketing.com/our-team/cory-crowley/
  * Text Domain: sslider
@@ -41,7 +41,7 @@ class Skyhook_Slider {
 	 * Class Constants
 	 * @since 1.0.0
 	 */
-	const VERSION         = '1.0.1';
+	const VERSION         = '1.0.2';
 	const TEXT_DOMAIN     = 'sslider';
 	const SCRIPT_PREFIX   = 'sslider';
 	const SLIDE_POST_TYPE = 'slide';
